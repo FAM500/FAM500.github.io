@@ -1,9 +1,9 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "تمر و عسل2",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 61,
+    "uniqCompNum": 64,
     "versionPublish": "4.6.6",
     "theme": {
       "name": "mobirise4",
@@ -41,7 +41,9 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
